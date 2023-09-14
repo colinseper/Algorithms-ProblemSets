@@ -1,5 +1,5 @@
 # 📝 Algorithms ProblemSets
-This file contains all the problem sets I've done for both Algorithms I (weeks 1-5), but not Algorithms II (weeks 1-2, 4). My computer broke and to learn the rest of important algorithms I decided to just learn them and not do the problem sets (I don't have a computer for the forseeable future). Any notes below will be specified in the following sections.
+This file contains all the problem sets I've done for both Algorithms I (weeks 1-5), but not Algorithms II (weeks 1-2, 4). My computer broke and to learn the rest of important algorithms I decided to just learn them through the videos and textbook and not do the problem sets (I don't have a computer for the forseeable future). Although, I may go back when I get a computer to do them. Any notes below will be specified in the following sections.
 
 ### 1️⃣ Algorithms I
 Throughout the course I bounced back and forth from too many to too little comments, so there may be some projects where I wrote too much and others where I wrote too little. Also for Week 1, there are 2 files because I completed percolation without knowledge of bitwise arithmetic and then did the problem again when 
